@@ -1,0 +1,7 @@
+from pay_fit_python_sdk.paths.companies_company_id_collaborators_collaborator_id_contracts_contract_id_payslips_payslip_id.get import ApiForget
+
+
+class CompaniesCompanyIdCollaboratorsCollaboratorIdContractsContractIdPayslipsPayslipId(
+    ApiForget,
+):
+    pass
